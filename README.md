@@ -298,11 +298,3 @@ Update PR       Merge
 ```
 
 ---
-
-# 🎯 Goal
-
-The goal of this repository is to make assignment submission:
-
-**Simple • Organized • Transparent • Easy to Review**
-
-### 🚀 Happy Coding!
