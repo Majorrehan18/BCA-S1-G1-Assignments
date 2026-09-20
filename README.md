@@ -294,7 +294,7 @@ Changes Required?
   ↓              ↓
 Fix files      Approval
   ↓              ↓
-Update          Merge
+ Update         Merge
 Pull Request     
 ```
 
