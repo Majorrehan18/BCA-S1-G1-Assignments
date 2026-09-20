@@ -294,7 +294,8 @@ Changes Required?
   ↓              ↓
 Fix files      Approval
   ↓              ↓
-Update PR       Merge
+Update          Merge
+Pull Request     
 ```
 
 ---
