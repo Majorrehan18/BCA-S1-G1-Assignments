@@ -8,7 +8,7 @@ The purpose is to keep everyone's assignment work organized and make submission 
 
 ---
 
-# 🧑‍🎓 How Students Submit Their Assignment
+# 🧑‍🎓 How Students Submit Your Assignments
 
 Follow these steps carefully.
 
@@ -20,7 +20,7 @@ On the GitHub repository page:
 
 **Fork → Create Fork**
 
-You will now have your own copy of the repository under your GitHub account.
+You will now have your own copy of this repository under your own GitHub account.
 
 ---
 
@@ -44,31 +44,13 @@ The branch `Assignment` is the branch used for student submissions.
 
 Inside the `Assignment` branch, create a folder with **your name**.
 
-For example:
-
-```text
-Assignment/
-│
-├── Rehan-Moyal/
-├── Arsalan/
-└── ...
-```
-
-### ⚠️ Important
+⚠️ Important
 
 **Do not put your files directly inside the** **`Assignment`** **branch.**
 
 Your work must be inside **your own folder**.
 
-For example:
-
-```text
-Assignment/
-└── Rehan-Moyal/
-    ├── Assignment-1.c
-    ├── Assignment-2.c
-    └── ...
-```
+Ask the Managers for this Step.
 
 ---
 
@@ -92,7 +74,7 @@ Assignment/
     └── Assignment-3.c
 ```
 
-Only upload the files required for the assignment.
+Only upload the files required for the Assignment.
 
 ---
 
@@ -129,7 +111,7 @@ Your Pull Request **must target the** **`Assignment`** **branch** of the origina
 ### ✅ Correct
 
 ```text
-Your Fork / Assignment
+Your Fork / main
         ↓
 Original Repository / Assignment
 ```
@@ -137,12 +119,12 @@ Original Repository / Assignment
 ### ❌ Wrong
 
 ```text
-Your Fork / Assignment
+Your Fork / main
         ↓
 Original Repository / main
 ```
 
-If you send your assignment to `main`, it is **the wrong submission**.
+If you send your assignment to `main`, it is **A WRONG SUBMISSION**.
 
 **Always check the target branch before creating your Pull Request.**
 
@@ -173,7 +155,7 @@ Your existing Pull Request will update automatically.
 
 ### 🔴 Important Rules
 
-1. Always work in your **own fork**.
+1. Always work in your **Own Fork**.
 2. Always use the **`Assignment`** **branch** for assignment work.
 3. Create a **separate folder for yourself**.
 4. Keep your assignment files inside your own folder.
@@ -297,5 +279,11 @@ Fix files      Approval
  Update         Merge
 Pull Request     
 ```
+
+If you have any Problem, You can Contact:
+
+* K.K. Bohra Sir — Teacher
+* Rehan Moyal 
+* Arsalan
 
 ---
