@@ -8,7 +8,7 @@ The purpose is to keep everyone's assignment work organized and make submission 
 
 ---
 
-# 🧑‍🎓 How Students Submit Your Assignments
+# 🧑‍🎓 How To Submit Your Assignments
 
 Follow these steps carefully.
 
