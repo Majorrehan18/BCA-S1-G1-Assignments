@@ -284,6 +284,6 @@ If you have any Problem, You can Contact:
 
 * K.K. Bohra Sir — Teacher
 * Rehan Moyal 
-* Arsalan
+* Mohd. Arsalan
 
 ---
